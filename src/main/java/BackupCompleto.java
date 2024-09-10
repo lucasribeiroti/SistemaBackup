@@ -7,8 +7,7 @@ public class BackupCompleto extends Backup {
     }
 
     @Override
-    public void realizarBackup() {
-        System.out.println("Iniciando backup completo.");
-        backupService.backupCompleto();
+    public String realizarBackup() {
+        return backupService.backupCompleto();
     }
 }

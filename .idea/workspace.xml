@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa504bf-f73d-4d38-82f8-f9d79f6f1059" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Backup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BackupCompleto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BackupIncremental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BackupLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BackupNuvem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BackupService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/test/BackupCompletoTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/test/BackupIncrementalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SistemaBackup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SistemaBackup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Backup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Backup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BackupCompleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BackupCompleto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BackupIncremental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BackupIncremental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BackupLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BackupLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BackupNuvem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BackupNuvem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BackupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BackupService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lsepv8lkgbdV2AbjufK9mVZOy7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,7 +55,7 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucas.ribeiro/SistemaBackup",
+    "last_opened_file_path": "C:/Users/lucas.ribeiro/padroes-projeto",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725973397913</updated>
-      <workItem from="1725973398952" duration="2518000" />
+      <workItem from="1725973398952" duration="5151000" />
+      <workItem from="1725988177828" duration="972000" />
     </task>
     <servers />
   </component>

@@ -7,8 +7,7 @@ public class BackupIncremental extends Backup {
     }
 
     @Override
-    public void realizarBackup() {
-        System.out.println("Iniciando backup incremental.");
-        backupService.backupIncremental();
+    public String realizarBackup() {
+        return backupService.backupIncremental();
     }
 }
